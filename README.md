@@ -1,5 +1,5 @@
 # Probabilistic-Programming
-Probability based customer Analytics - Building Models using below techniques
+Probability based models for demand forecasting,churn & similar topics in customer Analytics - Below techniques are used
 * Negative Binomial Distribution Regression
 * Poisson Regression
 * Shifted Geometric Distribution
