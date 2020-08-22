@@ -1,6 +1,6 @@
 libname mis "C:\Users\virendsi\Desktop\ABI project"; run;
 
-proc import datafile="C:\Users\virendsi\Google Drive\Study\3rd sem\ABI\HW\project\books.txt" out=mis.booksnew dbms=dlm replace;
+proc import datafile="C:\Users\viren\books.txt" out=mis.booksnew dbms=dlm replace;
    delimiter='09'x;
    getnames=yes;
 run;
